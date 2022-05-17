@@ -1,0 +1,61 @@
+{
+    "page_title": "John's Jackfruit",
+    "page_footer_label": "midterm-exam-jxc9224",
+    "page_footer_link": "https://github.com/saunders-cz/midterm-exam-jxc9224",
+
+    "home_tab_title": "Home",
+    "products_tab_title": "Products",
+    "cart_tab_title": "Cart",
+
+    "cart_checkout_tab_title": "Checkout",
+    "cart_delivery_tab_title": "Delivery",
+    "cart_order_tab_title": "Place Order",
+
+    "products": [
+        {
+            "name": "Organic Whole Jackfruit",
+            "description": "Raw, unwashed. Priced per kilogram. USDA certified organic",
+            "unitprice": 0.59
+        },
+        {
+            "name": "Organic Chopped Jackfruit",
+            "description": "Machine washed, skinned & chopped. Priced per kilogram. USDA certified organic",
+            "unitprice": 1.29
+        },
+        {
+            "name": "Organic Sliced Jackfruit",
+            "description": "Machine washed, skinned & vertically sliced. Priced per kilogram. USDA certified organic",
+            "unitprice": 1.29
+        },
+        {
+            "name": "Organic Jackfruit Juice",
+            "description": "Machine washed, chopped, & juiced. Priced per liter. USDA certified organic",
+            "unitprice": 1.49
+        },
+        {
+            "name": "Organic Jackfruit Puree",
+            "description": "Machine washed, chopped, & pureed. Priced per kilogram. USDA certified organic",
+            "unitprice": 1.99
+        },
+        {
+            "name": "Organic Jackfruit Spread",
+            "description": "Machine washed, chopped, & mashed. Priced per kilogram. USDA certified organic",
+            "unitprice": 2.49
+        },
+        {
+            "name": "Organic Canned Chopped Jackfruit",
+            "description": "Machine washed, chopped, & canned with natural preservatives. Priced per 565g canister. USDA certified organic",
+            "unitprice": 2.99
+        },
+        {
+            "name": "Organic Canned Sliced Jackfruit",
+            "description": "Machine washed, vertically sliced, & canned with natural preservatives. Priced per 565g canister. USDA certified organic",
+            "unitprice": 2.99
+        },
+        {
+            "name": "Organic Canned Whole Jackfruit",
+            "description": "Machine washed & canned with natural preservatives. Priced per 565g canister. USDA certified organic",
+            "unitprice": 2.99
+        }
+    ]
+}

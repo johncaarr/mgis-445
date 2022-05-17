@@ -1,0 +1,14 @@
+{
+  "git.ignoreLimitWarning": true,
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "Bookstore Database",
+      "database": "${workspaceFolder:todo-demo}/packages/server/data/database.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

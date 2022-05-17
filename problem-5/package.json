@@ -1,0 +1,12 @@
+{
+  "name": "mgis445-problem-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lerna exec --parallel npm run start"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}
